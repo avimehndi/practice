@@ -1,1 +1,2 @@
 creating the new file
+checking the graph format
